@@ -1,0 +1,14 @@
+.line-title {
+    border-bottom: 1px solid #e5e5e5;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+
+.navbar-default {
+    background-color: #F5F5F5;
+    border-bottom: 10px solid #E7E7E7;
+}
+
+span.peringatan {
+    color: red;
+}
